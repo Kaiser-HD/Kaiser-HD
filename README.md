@@ -11,6 +11,9 @@
   <div style="display: inline_block"><br>
     <div style="justify-content: center;">
       <img align="center" alt="Java" height="150" width="160" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" />
+      <img align="center" alt="JavaScript" height="150" width="160" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
+      <img align="center" alt="HTML" height="150" width="160" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" />
+      <img align="center" alt="CSS" height="150" width="160" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" />
     </div>
   </div>
 </div>
